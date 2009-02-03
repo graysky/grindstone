@@ -1,0 +1,7 @@
+h2. Grindstone
+
+Grindstone is a Greasemonkey script to help block websites that steal your focus. You tell it which sites to block and when to block them. Think of it as a safety net for staying productive.
+
+h3. Learn More
+
+Watch "the screencast":http://graysky.org/grindstone on how Grindstone works.
