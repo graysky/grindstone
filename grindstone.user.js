@@ -1,5 +1,5 @@
 // Version 0.9
-// Copyright (c) 2007, Mike Champion (mike@graysky.org)
+// Copyright (c) 2008, Mike Champion (mike@graysky.org)
 // Released under the GPL license
 // http://www.gnu.org/copyleft/gpl.html
 // --------------------------------------------------------------------
@@ -10,7 +10,6 @@
 // Then restart Firefox and revisit this script.
 // Under Tools, there will be a new menu item to "Install User Script".
 // Accept the default configuration and install.
-//
 //
 // ==UserScript==
 // @name           Grindstone
