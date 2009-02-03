@@ -6,7 +6,7 @@ Options include blocking a site:
 
 * Always or during certain hours
 * After a certain number of visits
-* After a certain amount of time
+* After a certain amount of time spent on the site
 
 h3. Learn More
 
